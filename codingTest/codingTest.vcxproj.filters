@@ -36,10 +36,31 @@
     <ClCompile Include="2444.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5598.cpp">
+    <ClCompile Include="5598_카이사르암.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2562_최댓값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10872_팩토리얼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1037_약수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2576_홀수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1546_평균.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10818_최소최대.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10809_알파벳찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3460_이진수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
